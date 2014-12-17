@@ -1,0 +1,1 @@
+This plugin integrates Mika Tuupola's [Lazy Load Plugin for jQuery](http://www.appelsiini.net/projects/lazyload) into DokuWiki.
