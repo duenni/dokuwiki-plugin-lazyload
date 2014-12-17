@@ -1,0 +1,6 @@
+base   lazyload
+author duenni    
+date   2014-12-17
+name   jQuery Lazy Load Plugin for DokuWiki
+desc   Images are not loaded until they are in the users viewport (lazy loading).
+url    https://github.com/duenni/dokuwiki-plugin-lazyload
