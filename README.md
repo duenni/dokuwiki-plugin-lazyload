@@ -2,4 +2,7 @@ This plugin integrates Mika Tuupola's [Lazy Load Plugin for jQuery](http://www.a
 
 #Installation
 
-Use DokuWikis Extension Manager accessed via Admin menu. Choose "Manual Install". Paste https://github.com/duenni/dokuwiki-plugin-lazyload/archive/master.zip into the "Install from URL" form and click "Install". After successful installation you have to enable the plugin in DokuWikis Configuration Manager. Look for the "renderer_xhtml" config option in the "Advanced" section. Choose "jQuery Lazy Load Plugin for DokuWiki" and hit "Save".
+* Admin :arrow_right: Extension Manager :arrow_right: Manual Install
+* Install from Url :arrow_right: Paste https://github.com/duenni/dokuwiki-plugin-lazyload/archive/master.zip :arrow_right: Install
+* After successful installation you have to enable the plugin in DokuWikis Configuration Manager. 
+* Section "Advanced" :arrow_right: Option "renderer_xhtml" :arrow_right: Choose "jQuery Lazy Load Plugin for DokuWiki" :arrow_right: Save
